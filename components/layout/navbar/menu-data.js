@@ -1,94 +1,21 @@
-export const DemoDropdownMenus = [
-	{
-		title: "Home 01",
-		path: "/",
-	},
-	{
-		title: "Home 02",
-		path: "index-two",
-	},
-	{
-		title: "Home 03",
-		path: "index-three",
-	},
-	{
-		title: "Home 04",
-		path: "index-four",
-	},
-	{
-		title: "Home 05",
-		path: "index-five",
-	},
-];
+
 export const PagesDropdownMenus = [
 	{
 		title: "About",
-		path: "about",
-		submenu: [
-			{
-				title: "About Dark",
-				path: "about-dark",
-			},
-			{
-				title: "About Light 01",
-				path: "about-us",
-			},
-			{
-				title: "Blog Light 02",
-				path: "about-light",
-			},
-		],
+		path: "about-dark",
+		
 	},
-	{
-		title: "Blog Light",
-		path: "blog",
-		submenu: [
-			{
-				title: "Blog Light",
-				path: "blog-light",
-			},
-			{
-				title: "Blog Light Sidebar 01",
-				path: "blog",
-			},
-			{
-				title: "Blog Light Sidebar 02",
-				path: "blog-light-sidebar",
-			},
-			{
-				title: "Single Blog Light",
-				path: "single-blog-light",
-			},
-		],
-	},
-	{
-		title: "Blog Dark",
-		path: "blog-dark",
-		submenu: [
-			{
-				title: "Blog Dark",
-				path: "blog-dark",
-			},
-			{
-				title: "Blog Dark Sidebar",
-				path: "blog-dark-sidebar",
-			},
-			{
-				title: "Blog Dark Details",
-				path: "single-blog-dark",
-			},
-		],
-	},
+	
 	{
 		title: "Service",
 		path: "#",
 		submenu: [
 			{
-				title: "Services",
+				title: "App Services",
 				path: "service",
 			},
 			{
-				title: "Single Service",
+				title: "Installation Service",
 				path: "single-service",
 			},
 		],
@@ -98,47 +25,30 @@ export const PagesDropdownMenus = [
 		path: "team",
 		submenu: [
 			{
-				title: "Team Dark",
+				title: "Our Developers",
 				path: "team-dark",
 			},
+			
 			{
-				title: "Team Light 01",
-				path: "team",
-			},
-			{
-				title: "Team Light 02",
-				path: "team-light",
-			},
-			{
-				title: "Single Team",
+				title: "Community",
 				path: "single-team",
 			},
 		],
 	},
 	{
-		title: "Pricing",
+		title: "Demo",
 		path: "pricing",
-		submenu: [
-			{
-				title: "Pricing 01",
-				path: "pricing-one",
-			},
-			{
-				title: "Pricing 02",
-				path: "pricing-two",
-			},
-		],
 	},
 	{
 		title: "Carrer",
 		path: "carrer",
 		submenu: [
 			{
-				title: "Career",
+				title: "Customer",
 				path: "carrer",
 			},
 			{
-				title: "Single-Career",
+				title: "Developer",
 				path: "sinlge-career",
 			},
 		],
@@ -148,21 +58,14 @@ export const PagesDropdownMenus = [
 		path: "portfolio",
 		submenu: [
 			{
-				title: "Portfolio Classic",
+				title: "Uploaded",
 				path: "portfolio-one",
 			},
 			{
-				title: "Portfolio-Minimal",
+				title: "History",
 				path: "portfolio-two",
 			},
-			{
-				title: "Portfolio-Modern",
-				path: "portfolio-three",
-			},
-			{
-				title: "Single Portfolio",
-				path: "single-portfolio",
-			},
+			
 		],
 	},
 	{
@@ -191,96 +94,64 @@ export const PagesDropdownMenus = [
 
 export const ElementsMegaMenu = [
 	{
-		title: "About Style",
+		title: "About Contact",
 		path: "#",
 		submenu: [
 			{
-				title: "About Dark",
+				title: "Ridanoorain16@gmail.com",
 				path: "about-dark",
 			},
 			{
-				title: "About Light 01",
+				title: "9228877340",
 				path: "about-us",
 			},
 			{
-				title: "Blog Light 02",
+				title: "",
 				path: "about-light",
 			},
 		],
 	},
 
 	{
-		title: "Blog Style",
+		title: "Our Mission",
 		path: "#",
 		submenu: [
 			{
-				title: "Blog Dark",
+				title: "Gallery",
 				path: "blog-dark",
 			},
 			{
-				title: "Blog Dark Sidebar",
+				title: "Blog page",
 				path: "blog-dark-sidebar",
 			},
 			{
-				title: "Blog Dark Details",
+				title: "Social",
 				path: "single-blog-dark",
 			},
 			{
-				title: "Blog Light",
+				title: "Tools",
 				path: "blog-light",
 			},
-			{
-				title: "Blog Light Sidebar 01",
-				path: "blog",
-			},
-			{
-				title: "Blog Light Sidebar 02",
-				path: "blog-light-sidebar",
-			},
-			{
-				title: "Single Blog light",
-				path: "single-blog",
-			},
+			
 		],
 	},
 
-	{
-		title: "Masonry Style",
-		path: "#",
-		submenu: [
-			{
-				title: "Portfolio Classic",
-				path: "portfolio-one",
-			},
-			{
-				title: "Portfolio-Minimal",
-				path: "portfolio-two",
-			},
-			{
-				title: "Portfolio-Modern",
-				path: "portfolio-three",
-			},
-			{
-				title: "Single Portfolio",
-				path: "single-portfolio",
-			},
-		],
-	},
+	
 
 	{
-		title: "Contact Style",
+		title: "Technologies",
 		path: "#",
 		submenu: [
 			{
-				title: "Contact Dark",
+				title: "Solar Panels",
 				path: "contact-dark",
 			},
 			{
-				title: "Contact Light 01",
+				title: "High Efficient Batteries",
 				path: "contact",
 			},
 			{
-				title: "Contact Light 02",
+				title: "Mobile App Controller",
 				path: "contact-light",
 			},
 		],
@@ -289,46 +160,31 @@ export const ElementsMegaMenu = [
 
 export const BlogDropdownMenus = [
 	{
-		title: "Blog Dark",
+		title: "Channel",
 		path: "blog-dark",
 	},
 	{
-		title: "Blog Dark Sidebar",
+		title: "Previous Blogs",
 		path: "blog-dark-sidebar",
 	},
 	{
-		title: "Blog Dark Details",
+		title: "Customer reviews",
 		path: "single-blog-dark",
 	},
-	{
-		title: "Blog Light",
-		path: "blog-light",
-	},
-	{
-		title: "Blog Light Sidebar 01",
-		path: "blog",
-	},
-	{
-		title: "Blog Light Sidebar 02",
-		path: "blog-light-sidebar",
-	},
-	{
-		title: "Single Blog Light",
-		path: "single-blog-light",
-	},
+	
 ];
 
 export const ContactDropdownMenus = [
 	{
-		title: "Contact Dark",
+		title: "Office Address",
 		path: "contact-dark",
 	},
 	{
-		title: "Contact Light 01",
+		title: "Email Us",
 		path: "contact",
 	},
 	{
-		title: "Contact Light 02",
+		title: "Customer Care",
 		path: "contact-light",
 	},
 ];

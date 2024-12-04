@@ -31,19 +31,19 @@ export default function TextSliderTwo() {
 						<div className="fugu--text-slider-icon">
 							<img src="/images/all-img/v3/daimond.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Buy Our Solar Panels Now at 20% off with free 1 month of Solar Vent+</h3>
 					</div>
 					<div className="fugu--text-slider-data">
 						<div className="fugu--text-slider-icon">
 							<img src="/images/all-img/v3/daimond.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Buy Our Solar Panels Now at 20% off with free 1 month of Solar Vent+</h3>
 					</div>
 					<div className="fugu--text-slider-data">
 						<div className="fugu--text-slider-icon">
 							<img src="/images/all-img/v3/daimond.png" alt="" />
 						</div>
-						<h3>COLLECT RARE AND EXTRAORDINARY RARE ARTWORK</h3>
+						<h3>Buy Our Solar Panels Now at 20% off with free 1 month of Solar Vent+</h3>
 					</div>
 				</Slider>
 			</div>

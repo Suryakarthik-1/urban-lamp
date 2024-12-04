@@ -6,10 +6,9 @@ export default function NftRoadMap() {
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>Create and sell your NFTs</h2>
+						<h2>Seemless Service</h2>
 						<p>
-							Anyone can make a profile on Foundation but only selected creators can mint NFTs & published
-							a complete guide.
+							This is where the Service meets commitment to our Customers.
 						</p>
 					</div>
 				</div>
@@ -20,9 +19,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon1.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Set up your wallet</h4>
+								<h4>Set up your Account</h4>
 								<p>
-									Once you've set up your wallet of choice, connect it by clicking the wallet icon
+									Once you've Logged in, connect it by clicking the Order now
 									easily.
 								</p>
 							</div>
@@ -34,10 +33,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon2.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Create collection</h4>
+								<h4>Select Your Needs</h4>
 								<p>
-									Click my collections and set up your collection. Add social links a description and
-									others.
+									Select from the various solar panels with their power rating.
 								</p>
 							</div>
 						</div>
@@ -48,9 +46,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon3.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>Add your NFT</h4>
+								<h4>Select the plan</h4>
 								<p>
-									Upload your work (Image, art, video, audio, or 3D art) add a title and description.
+								Design the flow and connection to your Appliances
 								</p>
 							</div>
 						</div>
@@ -61,10 +59,9 @@ export default function NftRoadMap() {
 								<img src="/images/all-img/v3/roadmap-icon4.png" alt="" />
 							</div>
 							<div className="fugu--iconbox-data">
-								<h4>List them for sale</h4>
+								<h4>Everything Ready</h4>
 								<p>
-									Choose between action, fixed-price listings & pricing listings. We help you sell
-									them.
+									Our service officers will reach you once you confirm your plan.
 								</p>
 							</div>
 						</div>

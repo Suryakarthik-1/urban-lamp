@@ -8,9 +8,9 @@ export default function NewsLetter() {
 				<div className="fugu--newslatter-wrap">
 					<div className="fugu--section-title">
 						<div className="fugu--default-content content-sm">
-							<h2>Subscribe to get the latest news updates about NFTS</h2>
+							<h2>Subscribe to get the latest news updates about Solar Technology</h2>
 							<p>
-								Get regular updates about interesting & secret upcoming NFT projects & events that are
+								Get regular updates about interesting & secret upcoming Solar projects & events that are
 								coming exclusively on our site.
 							</p>
 						</div>
