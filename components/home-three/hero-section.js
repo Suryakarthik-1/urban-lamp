@@ -11,47 +11,46 @@ export default function HeroSection() {
 					<div className="col-lg-7">
 						<div className="fugu--hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-								Discover the latest digital art and collect NFTs
+							Revolutionizing Energy Efficiency for a Greener Future
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.10s">
-								The largest NFT marketplace. We make NFTs easier and more efficient for culture and
-								creativity, built efficiently for you.
+							Harnessing the power of AI and solar energy to create smarter, more sustainable HVAC systems for residential and commercial spaces.
 							</p>
 							<div className="fugu--btn-wrap fugu--hero-btn wow fadeInUpX" data-wow-delay="0.20s">
 								<Link href={"#"} legacyBehavior>
 									<a className="fugu--btn bg-gray active">Get Started</a>
 								</Link>
-								<Link href={"#"} legacyBehavior>
-									<a className="fugu--btn bg-gray">View Artwork</a>
+								<Link href={"#learn-more"} legacyBehavior>
+									<a className="fugu--btn bg-gray">Learn More</a>
 								</Link>
 							</div>
 							<div className="fugu--counter-wrap wow fadeInUpX" data-wow-delay="0.30s">
 								<div className="fugu--counter-data">
 									<h2>
 										<span data-percentage="45" className="fugu--counter">
-											<CountUp end={45} />
+											<CountUp end={65} />
 										</span>
-										<strong>K</strong>
+										<strong>K+</strong>
 									</h2>
-									<p>Artwork</p>
+									<p>Customers</p>
 								</div>
-								<div className="fugu--counter-data">
+								<div className="fugu--counter-data px-3">
 									<h2>
 										<span data-percentage="86" className="fugu--counter">
 											<CountUp end={86} />
 										</span>
 										<strong>K</strong>
 									</h2>
-									<p>Auction</p>
+									<p>Installations</p>
 								</div>
-								<div className="fugu--counter-data">
+								<div className="fugu--counter-data px-2">
 									<h2>
 										<span data-percentage="32" className="fugu--counter">
-											<CountUp end={32} />
+										<strong>$</strong><CountUp end={3250} />
 										</span>
-										<strong>K</strong>
+										{/* <strong>K+</strong> */}
 									</h2>
-									<p>Artist</p>
+									<p>Carbon Credits</p>
 								</div>
 							</div>
 						</div>
