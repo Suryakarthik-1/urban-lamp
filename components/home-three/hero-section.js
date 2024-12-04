@@ -63,7 +63,7 @@ export default function HeroSection() {
 								</div>
 								<div className="fugu--card-data">
 									<h3>The Exorians Universe</h3>
-									<p>Pre-sale : 18 May 2023</p>
+									<p></p>
 									<div className="fugu--card-footer">
 										<div className="fugu--card-footer-data">
 											<span>Mint Price:</span>
