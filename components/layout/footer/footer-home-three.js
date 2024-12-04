@@ -14,8 +14,7 @@ export default function FooterHomeThree() {
 									<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
 								</div>
 								<p>
-									Discover NFTs by category, track the latest drops, and follow the collections you
-									love to enjoy it!
+									Revolutionalize the Journey of Sustainable Energy with Artificial Intelligence
 								</p>
 								<div className="fugu--social-icon">
 									<ul>
@@ -48,10 +47,10 @@ export default function FooterHomeThree() {
 								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Create A Store </Link>
+										<Link href="#">Select A Store </Link>
 									</li>
 									<li>
-										<Link href="#">Start Selling </Link>
+										<Link href="#">Start Buying</Link>
 									</li>
 									<li>
 										<Link href="#">My Account </Link>
@@ -70,29 +69,29 @@ export default function FooterHomeThree() {
 								<span>Marketplace</span>
 								<ul>
 									<li>
-										<Link href="#">Art </Link>
+										<Link href="#">Service Centres</Link>
 									</li>
 									<li>
-										<Link href="#">Digital Art </Link>
+										<Link href="#">Help with order</Link>
 									</li>
 									<li>
-										<Link href="#">Photography </Link>
+										<Link href="#">Architecture </Link>
 									</li>
 									<li>
-										<Link href="#">Games </Link>
+										<Link href="#">Solar Engineer </Link>
 									</li>
 									<li>
-										<Link href="#">Music </Link>
+										<Link href="#">Electrical Engineer </Link>
 									</li>
 								</ul>
 							</div>
 						</div>
 						<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 							<div className="fugu--footer-menu">
-								<span>Marketplace</span>
+								<span>Us</span>
 								<ul>
 									<li>
-										<Link href="#">Explore NFTs </Link>
+										<Link href="#">Explore </Link>
 									</li>
 									<li>
 										<Link href="#">Platform Status </Link>
@@ -112,7 +111,7 @@ export default function FooterHomeThree() {
 					</div>
 				</div>
 				<div className="fugu--footer-bottom">
-					assets <p>&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+					assets <p>&copy; Copyright 2024, All Rights Reserved by SolarVent</p>
 					<div className="fugu--footer-menu">
 						<ul>
 							<li>

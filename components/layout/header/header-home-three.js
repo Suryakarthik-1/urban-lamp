@@ -4,7 +4,6 @@ import { useState } from "react";
 import {
 	BlogDropdownMenus,
 	ContactDropdownMenus,
-	DemoDropdownMenus,
 	ElementsMegaMenu,
 	PagesDropdownMenus,
 } from "../navbar/menu-data";
@@ -47,7 +46,7 @@ export default function HeaderHomeThree() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Home"/>
 								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
@@ -57,7 +56,7 @@ export default function HeaderHomeThree() {
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
 						<a className="fugu--btn fugu--menu-btn1" href="contact.html">
-							Connect Wallet
+							Login or SignUp
 						</a>
 					</div>
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>

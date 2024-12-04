@@ -33,7 +33,7 @@ export default function Team() {
 									<img src="/images/all-img/v3/team1.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Jane Cooper</h4>
+									<h4>Rida Noorain</h4>
 									<p>CEO & Founder</p>
 								</div>
 							</div>
@@ -49,8 +49,8 @@ export default function Team() {
 									<img src="/images/all-img/v3/team2.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Esther Howard</h4>
-									<p>Art Director</p>
+									<h4>Mayank Malviya</h4>
+									<p>Designer & Cofounder</p>
 								</div>
 							</div>
 							<button type="button" className="fugu--dot-btn">
@@ -65,8 +65,8 @@ export default function Team() {
 									<img src="/images/all-img/v3/team3.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Cameron Williamson</h4>
-									<p>Marketing Officer</p>
+									<h4>Sarthak Upadhyay</h4>
+									<p>Developer</p>
 								</div>
 							</div>
 							<button type="button" className="fugu--dot-btn">
@@ -81,7 +81,7 @@ export default function Team() {
 									<img src="/images/all-img/v3/team4.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Brooklyn Simmons</h4>
+									<h4>Surya Karthik</h4>
 									<p>Operating Officer</p>
 								</div>
 							</div>
@@ -97,7 +97,7 @@ export default function Team() {
 									<img src="/images/all-img/v3/team5.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Leslie Alexander</h4>
+									<h4>MD Junaid</h4>
 									<p>Graphic Designer</p>
 								</div>
 							</div>
@@ -113,7 +113,7 @@ export default function Team() {
 									<img src="/images/all-img/v3/team6.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
-									<h4>Guy Hawkins</h4>
+									<h4>Monish R</h4>
 									<p>UI/UX Designer</p>
 								</div>
 							</div>
