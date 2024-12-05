@@ -159,6 +159,26 @@ textarea {
 	/* 2 */
 }
 
+#ehjfbhjewbjhb{
+	margin-top: 260px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.buttonfrjehvs{
+	display: flex;
+	margin: auto;
+	color: white;
+	font-size: larger;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 60px;
+	background-color: #0080ff;
+	border-radius: 24px;
+	max-width: 150px;
+	max-height: 56px;
+}
+
 .clearfix:after {
 	clear: both;
 }

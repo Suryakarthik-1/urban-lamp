@@ -55,8 +55,10 @@ export default function HeaderHomeThree() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu--btn fugu--menu-btn1" href="contact.html">
+						<a className="fugu--btn fugu--menu-btn1">
+							<Link href="/login" className="text-white">
 							Login or SignUp
+							</Link>
 						</a>
 					</div>
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
