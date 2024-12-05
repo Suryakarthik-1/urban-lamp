@@ -56,6 +56,18 @@ body {
 	line-height: 30px;
 }
 
+#helloworld{
+	margin: 100px 0;
+	width: 550px;
+}
+
+#splinekdshb{
+	/* margin: auto; */
+	height: 100%;
+	width: 100%;
+	border-radius: 30px;
+}
+
 body.styleguide {
 	background-color: #dcdfe8;
 }
@@ -76,6 +88,18 @@ img,
 svg,
 video {
 	vertical-align: middle;
+}
+
+#getfixedsoonsejh{
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+	right: -349px;
+	top: 90px;
+}
+
+.somethingkeuh{
+	position: absolute;
 }
 
 fieldset {

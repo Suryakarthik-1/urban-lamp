@@ -62,7 +62,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.20s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team3.jpg" alt="" />
+									<img src="/images/all-img/v3/team6.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>Sarthak Upadhyay</h4>
@@ -78,7 +78,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team4.jpg" alt="" />
+									<img src="/images/all-img/v3/team5.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>Surya Karthik</h4>
@@ -94,7 +94,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.40s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team5.jpg" alt="" />
+									<img src="/images/all-img/v3/team4.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>MD Junaid</h4>
@@ -110,7 +110,7 @@ export default function Team() {
 						<div className="fugu--team-wrap wow fadeInUpX" data-wow-delay="0.50s">
 							<div className="fugu--team-left">
 								<div className="fugu--team-thumb">
-									<img src="/images/all-img/v3/team6.jpg" alt="" />
+									<img src="/images/all-img/v3/team3.jpg" alt="" />
 								</div>
 								<div className="fugu--team-data">
 									<h4>Monish R</h4>

@@ -45,33 +45,32 @@ export default function CardSliderOne() {
 		],
 	};
 	return (
-		<div className="fugu--slider-section">
+		<div className="fugu--slider-section" id="learn-more">
 			<div className="container">
 				<div className="fugu--section-title">
 					<div className="fugu--default-content content-sm">
-						<h2>This weeks trending collections</h2>
+						<h2>Our Services</h2>
 						<p>
-							Some of these upcoming trends could change the way we experience the web, brand products,
-							buy and sell art, even create & experience music.
+						Explore Our Cutting-Edge Solutions Designed to Optimize Energy Efficiency, Reduce Environmental Impact, and Revolutionize HVAC Systems for Sustainable Commercial and Residential Spaces
 						</p>
 					</div>
 				</div>
-				<div className="fugu--slider-one">
+				<div className="fugu--slider-one ">
 					<Slider {...settings}>
 						<div className="fugu--card-wrap">
 							<div className="fugu--card-thumb">
-								<img src="/images/all-img/v3/card1.jpg" alt="" />
+								<img src="/images/all-img/v3/card1.jpg" alt="" className="max-h-10 "/>
 							</div>
 							<div className="fugu--card-data">
-								<h3>Meta Frog Club: VIP Sale</h3>
-								<p>Pre-sale : 18 May 2023</p>
+								<h3>Monocrystalline Panels</h3>
+								
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
+										<span>Price /Sqft:</span>
+										<h4>$12</h4>
 									</div>
 									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+										<a className="fugu--btn btn-sm bg-white">Book a Call</a>
 									</Link>
 								</div>
 							</div>
@@ -81,15 +80,15 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card2.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>The Exorians Universe</h3>
-								<p>Pre-sale : 18 May 2023</p>
+								<h3>Thin-Film Solar Panels</h3>
+							
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
+										<span>Price /Sqft:</span>
+										<h4>$19</h4>
 									</div>
 									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+										<a className="fugu--btn btn-sm bg-white">Book a Call</a>
 									</Link>
 								</div>
 							</div>
@@ -99,15 +98,15 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card3.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
-								<p>Pre-sale : 18 May 2023</p>
+								<h3>PERC Solar Panels</h3>
+								
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
+										<span>Price /sqft:</span>
+										<h4>$17</h4>
 									</div>
 									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+										<a className="fugu--btn btn-sm bg-white">Book a Call</a>
 									</Link>
 								</div>
 							</div>
@@ -117,15 +116,15 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card4.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>The Bees Kingdom</h3>
-								<p>Pre-sale : 18 May 2023</p>
+								<h3>Commercial Panels</h3>
+								
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
+										<span>Price /Sqft:</span>
+										<h4>$10</h4>
 									</div>
 									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+										<a className="fugu--btn btn-sm bg-white">Book a Call</a>
 									</Link>
 								</div>
 							</div>
@@ -135,15 +134,15 @@ export default function CardSliderOne() {
 								<img src="/images/all-img/v3/card5.jpg" alt="" />
 							</div>
 							<div className="fugu--card-data">
-								<h3>CryptoPunks 4D Official</h3>
-								<p>Pre-sale : 18 May 2023</p>
+								<h3>Domestic Panels</h3>
+								
 								<div className="fugu--card-footer">
 									<div className="fugu--card-footer-data">
-										<span>Mint Price:</span>
-										<h4>0.194 ETH</h4>
+										<span>Price /Sqft:</span>
+										<h4>$15</h4>
 									</div>
 									<Link href={"/"} legacyBehavior>
-										<a className="fugu--btn btn-sm bg-white">Place a Bid</a>
+										<a className="fugu--btn btn-sm bg-white">Book a Call</a>
 									</Link>
 								</div>
 							</div>

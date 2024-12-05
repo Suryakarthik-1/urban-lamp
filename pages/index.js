@@ -16,7 +16,7 @@ export default function IndexThree() {
 	return (
 		<>
 			<Head>
-				<title>fugu - index o3</title>
+				<title>SolarVent</title>
 			</Head>
 			<HeroSection />
 			<CardSliderOne />
